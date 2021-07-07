@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    IMAGE_REPO_NAME: "makenocake-staging-repo"
+    IMAGE_REPO_NAME: "sam-kay11-repo"
     AWS_ACCOUNT_ID: "130541009828"
     AWS_DEFAULT_REGION: "ap-southeast-2"
 
